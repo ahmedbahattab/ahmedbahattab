@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tech Enthusiast<br>Currently pursuing a degree in Information Technology<br>I'm currently working on Data Structures & Algorithms <br>
+Tech Enthusiast 🖥️<br>Currently pursuing a degree in Information Technology<br>I'm currently working on Data Structures & Algorithms <br>
 
 
 ## 🌐 Socials:
